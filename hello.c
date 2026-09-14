@@ -2,6 +2,5 @@
 int main()
 {
     printf("Hello World!");
-    printf("This is my first C project.");
     return 0;
 }
